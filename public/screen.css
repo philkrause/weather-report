@@ -32,6 +32,7 @@ h1{
 }
 
 h3 {
+  margin-top:2rem;
   font-size: 2.5rem;
   color: rgb(0, 38, 255);
   font-family: 'PT Serif', serif;
@@ -40,7 +41,7 @@ h3 {
   border-bottom-style:solid
 }
 .tempF {
-  margin-top:3rem;
+  margin-top:7rem;
   font-size: 2.5rem;
   color: rgb(255, 102, 0);
   font-family: 'PT Serif', serif;
@@ -50,6 +51,7 @@ h3 {
 }
 
 .zip-code {
+  margin-top:5rem;
   margin-left: 50vw;
   height: 3rem;
   font-size: 3rem;
@@ -69,6 +71,7 @@ h3 {
 }
 
 .name {
+  margin-top:1rem;
   font-size: 3rem;
   font-family: 'PT Serif', serif;
   color: rgb(140, 0, 255);
@@ -77,7 +80,7 @@ h3 {
 }
 
 .temp {
-  margin-top: 2rem;
+  margin-top: 5rem;
   font-size: 4rem;
   font-family: 'PT Serif', serif;
   color: rgb(0, 153, 255);
