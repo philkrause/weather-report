@@ -40,12 +40,13 @@ h3 {
   border-bottom-style:solid
 }
 .tempF {
+  margin-top:3rem;
   font-size: 2.5rem;
   color: rgb(255, 102, 0);
   font-family: 'PT Serif', serif;
   margin-right: 50vw;
   border-bottom-color:grey;
-  border-bottom-style:solid
+  border-bottom-style:solid;
 }
 
 .zip-code {
@@ -70,12 +71,13 @@ h3 {
 .name {
   font-size: 3rem;
   font-family: 'PT Serif', serif;
-  color: rgb(0, 153, 255);
-  padding-bottom:4rem
+  color: rgb(140, 0, 255);
+ 
 
 }
 
 .temp {
+  margin-top: 2rem;
   font-size: 4rem;
   font-family: 'PT Serif', serif;
   color: rgb(0, 153, 255);
